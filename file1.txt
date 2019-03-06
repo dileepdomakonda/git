@@ -5,3 +5,4 @@ welcom
 jkl;nf
 g
 changed;
+changed in slave
