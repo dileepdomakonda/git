@@ -6,3 +6,5 @@ jkl;nf
 g
 changed;
 changed in slave
+changed in master
+changed in slave 2nd time
